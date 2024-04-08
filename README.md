@@ -12,5 +12,4 @@
 * 5
 
 # Informes por enviar 📌
-* 5 - 25 MAR a 29 MAR
 * 6 - 1 ABR a 5 ABR
