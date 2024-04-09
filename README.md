@@ -1,4 +1,4 @@
-# Monitorias ISU 👩‍💻 (Interacción Social Universitaria)
+# Monitorias ISU (Interacción Social Universitaria)
 * Plan de trabajo
 * Video Presentación Monitor
 * CAI
