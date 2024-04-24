@@ -10,6 +10,6 @@
 * 4
 * 5
 * 6
+* 7
 # Informes por enviar 📌
-* Semana 7 - 8 ABR a 12 ABR
 * Semana 8 - 15 ABR a 19 ABR
