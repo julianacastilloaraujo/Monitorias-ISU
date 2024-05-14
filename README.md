@@ -14,4 +14,6 @@
 * 8
 * 9
 # Informes por enviar 📌
-* Semana 9 - 22 ABR a 26 ABR
+* Semana 10 (29 ABR a 3 MAYO)
+* Semana 11  (6 MAYO a 10 MAYO)
+* Semana 12 (13 MAYO a 17 MAYO)
