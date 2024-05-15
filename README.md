@@ -17,3 +17,5 @@
 * Semana 10 (29 ABR a 3 MAYO)
 * Semana 11  (6 MAYO a 10 MAYO)
 * Semana 12 (13 MAYO a 17 MAYO)
+* Semana 13  (20 MAYO a 24 MAYO)
+* Filminuto
