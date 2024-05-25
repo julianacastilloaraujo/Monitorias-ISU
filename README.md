@@ -18,5 +18,4 @@
 * 12
 * 13
 * Filminuto
-# Informes por enviar 📌
 * Informe Final
